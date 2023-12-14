@@ -1,4 +1,5 @@
 Repositório para armazenar os exercícios realizados nas aulas, e nos desafios dos cursos introdutórios de JavaScript da Digital Innovation One, em parceria com o Banco Pan. 
+Constam aqui os exercícios propostos nos cursos: 
 
 * Primeiros Passos Com JavaScript
 * Conhecendo Funções JavaScript
